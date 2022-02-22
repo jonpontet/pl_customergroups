@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin123" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="2fa3cf4322f1e16499fdd445636e4917">
+        <source>PL Customer Groups</source>
+        <target>PL Customer Groups</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c2a43b11bf13c46ac6fc9d5e88a310aa">
+        <source>Adds the missing groups information to your customer list</source>
+        <target>Ajoute les informations sur les groupes manquants à votre liste de clients</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="254f642527b45bc260048e30704edb39">
+        <source>Configuration</source>
+        <target>Configuration</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9d1b2b44e6116c8093670c2abf2fe6c3">
+        <source>The column after which to display the new "group access" column:</source>
+        <target>La colonne après laquelle il faut afficher la nouvelle colonne "accès des groupes" :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="da75d029e2c21809a669adeb3b1e7d9f">
+        <source>The settings could not be updated.</source>
+        <target>Les paramètres n'ont pas pu être mis à jour.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="64d84a390423f10a5dbab54f46ea04dd">
+        <source>Add a groups column to your customers list</source>
+        <target>Ajouter une colonne groupes à votre liste de clients</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9322070776d06be6fe68b247f01226a">
+        <source>This module adds the missing groups column to your customers list.</source>
+        <target>Ce module ajoute la colonne groupes manquante à votre liste de clients.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="694a0be5e7613221ec74691dd498ce98">
+        <source>See at a quick glance, the groups that you customers belong to.</source>
+        <target>Vous pouvez ainsi voir d'un coup d'oeil les groupes auxquels vos clients appartiennent.</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

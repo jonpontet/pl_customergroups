@@ -1,0 +1,24 @@
+{
+  "name": "pl-customergroups",
+  "version": "1.0.0",
+  "description": "PontetLabs customer groups module for PrestaShop",
+  "homepage": "https://github.com/jonpontet/pl_customergroups",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpontet/pl_customergroups.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonpontet/pl_customergroups/issues"
+  },
+  "license": "MIT",
+  "author": "PontetLabs <hi@pontetlabs.com> (https://pontetlabs.com)",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.1.0",
+    "zip": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
