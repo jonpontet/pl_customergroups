@@ -7,9 +7,9 @@
         <target>PL Customer Groups</target>
         <note>Line: </note>
       </trans-unit>
-      <trans-unit id="c2a43b11bf13c46ac6fc9d5e88a310aa">
-        <source>Adds the missing groups information to your customer list</source>
-        <target>Ajoute les informations sur les groupes manquants à votre liste de clients</target>
+      <trans-unit id="440851649d09673e92ac0305d64980b3">
+        <source>Adds the missing groups information to your customer list.</source>
+        <target>Ajoute les informations sur les groupes manquants à votre liste de clients.</target>
         <note>Line: </note>
       </trans-unit>
       <trans-unit id="254f642527b45bc260048e30704edb39">
@@ -17,9 +17,9 @@
         <target>Configuration</target>
         <note>Line: </note>
       </trans-unit>
-      <trans-unit id="9d1b2b44e6116c8093670c2abf2fe6c3">
-        <source>The column after which to display the new "group access" column:</source>
-        <target>La colonne après laquelle il faut afficher la nouvelle colonne "accès des groupes" :</target>
+      <trans-unit id="1249bce43766ecad25e4cea9cd168070">
+        <source>The column after which to display the new column:</source>
+        <target>La colonne après laquelle il faut afficher la nouvelle colonne :</target>
         <note>Line: </note>
       </trans-unit>
       <trans-unit id="da75d029e2c21809a669adeb3b1e7d9f">
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="64d84a390423f10a5dbab54f46ea04dd">
         <source>Add a groups column to your customers list</source>
-        <target>Ajouter une colonne groupes à votre liste de clients</target>
+        <target>Ajouter une colonne groupes à votre page de clients</target>
         <note>Line: </note>
       </trans-unit>
       <trans-unit id="b9322070776d06be6fe68b247f01226a">

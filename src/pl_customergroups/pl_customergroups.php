@@ -112,7 +112,7 @@ class Pl_CustomerGroups extends Module {
       'input'  => array(
         array(
           'type'    => 'select',
-          'label'   => $this->trans( 'The column after which to display the new "group access" column:', [], 'Modules.Plcustomergroups.Admin' ),
+          'label'   => $this->trans( 'The column after which to display the new column:', [], 'Modules.Plcustomergroups.Admin' ),
           'name'    => 'CUSTOMER_GROUP_COL_POS',
           'options' => array(
             'query' => array(
@@ -205,10 +205,9 @@ class Pl_CustomerGroups extends Module {
     if ( Tools::isSubmit( 'submitConfig' ) ) {
 
       if ( Configuration::updateValue( 'PL_CUSTOMER_GROUP_COL_POS', Tools::getValue( 'CUSTOMER_GROUP_COL_POS' ) ) ) {
-        $this->html .= $this->displayError( $this->trans( 'The settings could not be updated.', array(), 'Modules.Plcustomergroups.Admin' ) );
-
-      } else {
         $this->html .= $this->displayConfirmation( $this->trans( 'Successful update.', array(), 'Admin.Notifications.Success' ) );
+      } else {
+        $this->html .= $this->displayError( $this->trans( 'The settings could not be updated.', array(), 'Modules.Plcustomergroups.Admin' ) );
       }
     }
   }
