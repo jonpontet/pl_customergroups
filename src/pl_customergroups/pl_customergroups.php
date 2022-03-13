@@ -87,13 +87,15 @@ class Pl_CustomerGroups extends Module {
   }
 
   public function getContent() {
-    $this->html .= $this->display( __FILE__, 'infos.tpl' );
-
     $this->postProcess();
 
-    $this->html .= $this->getForm();
+    $templateData = array(
+      'config_form' => $this->getForm()
+    );
 
-    return $this->html;
+    $this->smarty->assign( $templateData );
+
+    return $this->display( __FILE__, 'views/templates/admin/configure.tpl' );
   }
 
   /**

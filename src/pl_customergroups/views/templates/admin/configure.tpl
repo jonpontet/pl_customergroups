@@ -23,9 +23,12 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
 *}
 
-<div class="alert alert-info">
-    <img src="../modules/pl_customergroups/logo.png" style="float:left; margin-right:15px;" height="60">
-    <p><strong>{l s="Add a groups column to your customers list" d='Modules.Plcustomergroups.Admin'}</strong></p>
-    <p>{l s="This module adds the missing groups column to your customers list." d='Modules.Plcustomergroups.Admin'}</p>
-    <p>{l s="See at a quick glance, the groups that you customers belong to." d='Modules.Plcustomergroups.Admin'}</p>
+<ul class="nav nav-tabs" role="tablist" id="plCustomerGroupsTabs">
+    <li class="active"><a href="#plCustomerGroupsInfo" role="tab" data-toggle="tab">{l s='Information' d='Modules.Plcustomergroups.Admin'}</a></li>
+    <li><a href="#plCustomerGroupsConfig" role="tab" data-toggle="tab">{l s='Configuration' d='Modules.Plcustomergroups.Admin'}</a></li>
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane" id="plCustomerGroupsConfig">{$config_form}</div>
+    <div class="tab-pane active" id="plCustomerGroupsInfo">{include file='./info.tpl'}</div>
 </div>

@@ -27,19 +27,34 @@
         <target>Les paramètres n'ont pas pu être mis à jour.</target>
         <note>Line: </note>
       </trans-unit>
-      <trans-unit id="64d84a390423f10a5dbab54f46ea04dd">
-        <source>Add a groups column to your customers list</source>
-        <target>Ajouter une colonne groupes à votre page de clients</target>
+      <trans-unit id="ea0043fd2909e5cadb634ae3123d6d97">
+        <source>This module adds the missing groups column to your customer list, so you can see, at a quick glance, all the groups that your customers belong to.</source>
+        <target>Ce module ajoute la colonne des groupes manquant à votre liste de clients, afin que vous puissiez voir, en un coup d'œil, tous les groupes auxquels vos clients appartiennent.</target>
         <note>Line: </note>
       </trans-unit>
-      <trans-unit id="b9322070776d06be6fe68b247f01226a">
-        <source>This module adds the missing groups column to your customers list.</source>
-        <target>Ce module ajoute la colonne groupes manquante à votre liste de clients.</target>
+      <trans-unit id="eb1dced514f8c4b2047ea309550d4412">
+        <source>Free from PontetLabs</source>
+        <target>Gratuit de PontetLabs</target>
         <note>Line: </note>
       </trans-unit>
-      <trans-unit id="694a0be5e7613221ec74691dd498ce98">
-        <source>See at a quick glance, the groups that you customers belong to.</source>
-        <target>Vous pouvez ainsi voir d'un coup d'oeil les groupes auxquels vos clients appartiennent.</target>
+      <trans-unit id="85ee56458affbd87b2c7cb2a6b302dd7">
+        <source>For more free modules and help for developers [1]visit our website[/1].</source>
+        <target>Pour plus de modules gratuits et d'aide aux développeurs [1]visitez notre site web[/1].</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="627583a3bb986b3f4f1dd80c5a3c4eb3">
+        <source>Contact the developer</source>
+        <target>Contacter le développeur</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="06f15497c46f190681a421a6c2f803db">
+        <source>You can email us at:</source>
+        <target>Vous pouvez nous contacter à :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
+        <source>Information</source>
+        <target>Information</target>
         <note>Line: </note>
       </trans-unit>
     </body>
